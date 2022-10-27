@@ -13,7 +13,7 @@ public class FindAnyLargestElementInArray {
             array[i]= sc.nextInt();
         }
         System.out.println("Elements of an array"+Arrays.toString(array));
-        System.out.print("Enter nubber of largest element you want to find:");
+        System.out.print("Enter number of largest element you want to find:");
         int largestElement= sc.nextInt();
 
         // sorting process
